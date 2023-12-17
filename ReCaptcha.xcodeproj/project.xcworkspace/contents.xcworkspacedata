@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:ReCaptcha-Carthage.xcodeproj">
+      location = "self:/Users/alishafiee/Desktop/IOS/Projects/ReCaptcha/ReCaptcha.xcodeproj">
    </FileRef>
 </Workspace>
